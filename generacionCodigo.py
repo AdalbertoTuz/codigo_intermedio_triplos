@@ -130,6 +130,7 @@ elif x==3:
 
 print()
 print("INTEGRANTES")
-print("DIMAS NAHUAT HERRERA")
+print("LETICIA KAUIL POOT")
 print("DALIA ABIGAIL CHI POOT")
+print("DIMAS NAHUAT HERRERA")
 print("JOSE ADALBERTO TUZ AY")
